@@ -1,0 +1,11 @@
+python-dotenv
+faiss-cpu
+langchain-openai
+langchain-google-genai
+langchain-google-vertexai
+langchain-community
+langchain
+langchain-core
+google-cloud-aiplatform
+blacksheep
+uvicorn

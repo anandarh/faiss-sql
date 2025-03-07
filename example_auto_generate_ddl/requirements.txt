@@ -1,0 +1,7 @@
+python-dotenv
+faiss-cpu
+psycopg
+langchain
+langchain-google-genai
+langchain-community
+langgraph
